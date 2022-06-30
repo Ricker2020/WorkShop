@@ -3,7 +3,7 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-FIXME: home page introduction
+Editado 2
 
 <!-- this is an html comment -->
 
@@ -11,7 +11,7 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> Editado 3
 {: .prereq}
 
 {% include links.md %}

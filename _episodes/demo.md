@@ -3,8 +3,8 @@ title: "Creating a cluster"
 teaching: 10
 exercises: 0
 questions:
-- "What are the basic concepts and jargon I need to know?"
-- "Do do I manually create a K8s cluster on the GCP"
+- "Editado 4"
+- "Editado 4"
 objectives:
 - "Learn a few words and concepts that will be used during this lesson"
 - "Lear how to create a K8s cluster from scratch"

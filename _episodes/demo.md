@@ -1,6 +1,6 @@
 ---
 title: "Creating a cluster"
-teaching: 10
+teaching: 5
 exercises: 0
 questions:
 - "Editado 4"
